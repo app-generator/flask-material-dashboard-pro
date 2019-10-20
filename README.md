@@ -1,6 +1,6 @@
 # [Flask Material Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
-Commercial product - Flask **Dashboard** coded on top of **Material Design Pro** crafted by Creative-Tim.
+**Commercial product** - Flask **Dashboard** coded on top of **Material Design Pro** crafted by Creative-Tim.
 
 <br />
 
