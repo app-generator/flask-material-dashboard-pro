@@ -4,7 +4,7 @@
 
 <br />
 
-![Flask Dashboard Material Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-kit-intro.gif)
+![Flask Dashboard Material Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)
 
 <br />
 
