@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - Product page
-- [Flask Dashboard Material PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-material-pro) - Documentation
+- [Flask Dashboard Material PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-material-pro/) - Documentation
 - [Flask Dashboard Material PRO](https://flask-dashboard-material-pro.appseed.us/) - LIVE demo
 
 <br />
