@@ -1,4 +1,4 @@
-# [Flask Dashboard Materia PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
+# [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
 
 > Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
