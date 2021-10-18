@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.4] 2021-10-18
+### Tooling
+
+- Added SCSS compilation scripts (via Gulp)
+
 ## [1.0.3] 2021-05-16
 ### Dependencies Update
 

@@ -8,6 +8,7 @@ Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new
 
 > Features
 
+- [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
 - Modular design with **Blueprints**, simple codebase
