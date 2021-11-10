@@ -26,6 +26,8 @@ Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new
 - [Flask Material PRO](https://flask-material-dashboard-pro.appseed-srv1.com) - LIVE Deployment
 - [Flask Material PRO](https://docs.appseed.us/products/flask-dashboards/material-dashboard-pro) - Product documentation
 
+<br />
+
 ## Quick Start in [Docker](https://www.docker.com/)
 
 > Get the code
