@@ -26,6 +26,25 @@ Material Dashboard PRO is a Premium Material Bootstrap 4 Admin with a fresh, new
 - [Flask Material PRO](https://flask-material-dashboard-pro.appseed-srv1.com) - LIVE Deployment
 - [Flask Material PRO](https://docs.appseed.us/products/flask-dashboards/material-dashboard-pro) - Product documentation
 
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/priv-flask-dashboard-material-pro.git
+$ cd priv-flask-dashboard-material-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
+
 <br />
 
 ![Flask Dashboard Materia PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-pro/master/media/flask-dashboard-material-pro-screen.png)
@@ -194,30 +213,6 @@ The generated file is saved in `static/assets/css` directory.
 ## Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The application can be easily executed in a docker container. The steps:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/priv-flask-dashboard-material-pro.git
-$ cd priv-flask-dashboard-material-pro
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
 
 ### [Heroku](https://www.heroku.com/)
 ---
