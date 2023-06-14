@@ -1,7 +1,17 @@
 # Change Log
 
+## [1.0.7] 2023-06-14
+### Changes
+
+- Codebase Improvements
+- Deployment-ready for Render (CI/CD)
+  - `render.yaml`
+  - `build.sh`
+- `DB Management` Improvement
+  - `Silent fallback` to **SQLite**
+
 ## [1.0.6] 2022-04-01
-### Fixes
+### Changes
 
 - **Patch ImportError**: [cannot import name 'safe_str_cmp' from 'werkzeug.security'](https://docs.appseed.us/content/how-to-fix/importerror-cannot-import-name-safe_str_cmp-from-werkzeug.security)
   - `Werkzeug` deprecation of `safe_str_cmp` starting with version `2.1.0`
