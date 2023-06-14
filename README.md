@@ -1,4 +1,4 @@
-# [Flask Material PRO](https://appseed.us/product/material-dashboard-pro/flask/)
+# [Flask Material PRO](https://appseed.us/product/material-dashboard-pro/flask/) `BS4`
 
 **Flask** starter styled with **[Material Dashboard PRO](https://appseed.us/product/material-dashboard-pro/flask/)**, a premium `Bootstrap 4` KIT from [Creative-Tim](https://bit.ly/3fKQZaL).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
@@ -151,4 +151,4 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 <br />
 
 ---
-[Flask Material Dash 2 PRO](https://appseed.us/product/material-dashboard2-pro/flask/) - Provided by **[AppSeed](https://appseed.us/app-generator)**.
+[Flask Material PRO](https://appseed.us/product/material-dashboard-pro/flask/) `BS4` - Provided by **[AppSeed](https://appseed.us/app-generator)**.
