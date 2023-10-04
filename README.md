@@ -1,6 +1,6 @@
 # [Flask Material PRO](https://appseed.us/product/material-dashboard-pro/flask/) `BS4`
 
-**Flask** starter styled with **[Material Dashboard PRO](https://appseed.us/product/material-dashboard-pro/flask/)**, a premium `Bootstrap 4` KIT from [Creative-Tim](https://bit.ly/3fKQZaL).
+**[Flask Dashboard](https://appseed.us/admin-dashboards/flask/)** starter styled with **Material Design PRO**, a premium `Bootstrap 4` KIT from `Creative-Tim`.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Flask Material PRO](https://appseed.us/product/material-dashboard-pro/flask/) - `Product page`
